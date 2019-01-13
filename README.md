@@ -1,3 +1,5 @@
-# AP Comp Sci HW Semester 2
+# AP Comp Sci HW
 
-01/2019 - 05/2019
+Semester 2: 01/2019 - 05/2019
+
+Palindrome Tester - due 01/14/2019
