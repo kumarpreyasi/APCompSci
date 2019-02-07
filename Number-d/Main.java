@@ -12,13 +12,24 @@ public class Main {
             System.out.printf("%3d: (Binary) %s (Octal) %s (Hex) %s\n", x, toBinary(x), toOctal(x), toHex(x));
         }
 
-//        //Uncomment below for Extra Credit
-//
-//        System.out.println("\nExtra Credit:");
-//
-//        for(int x : values){
-//            System.out.printf("%3d: %s %s %s\n", x, toAnyBase(x,2), toAnyBase(x,8), toAnyBase(x,16));
-//        }
+/*     //Uncomment this section for Extra Credit Version 1
+
+       System.out.println("\nExtra Credit:");
+
+       for(int x : values){
+           System.out.printf("%3d: %s %s %s\n", x, toAnyBase(x,2), toAnyBase(x,8), toAnyBase(x,16));
+       }
+*/
+        
+        
+/*     //Uncomment this section for Extra Credit Version 2
+
+       System.out.println("\nExtra Credit:");
+       int x = rand.nextInt(257);
+
+       System.out.printf("%d: %s %s %s\n", x, toAnyBase(x,rand.nextInt(16)+1), toAnyBase(x,rand.nextInt(16)+1), toAnyBase(x,rand.nextInt(16)+1));
+*/ 
+       
     }
 
 
