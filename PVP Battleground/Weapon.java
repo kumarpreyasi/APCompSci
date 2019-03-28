@@ -1,27 +1,27 @@
 public class Weapon {
 
     private int damage, strength, agility, critical;
-   
+
     private boolean range;
-   
-    String n;
 
-    Weapon(int d, int s, int c, boolean r, String weapon) {
+    String weapon;
 
-        int damage = d;
-        int critical = c;
-        boolean range = r;
+    Weapon(int d, int s, int c, boolean r, String weaponName) {
+
+        damage = d;
+        critical = c;
+        range = r;
 
         if (r){
-            agility = s; 
+            agility = s;
             strength = 0;
         }
         else {
-            agility = 0; 
+            agility = 0;
             strength = s;
         }
 
-        String n = weapon;
+        weapon = weaponName;
 
     }
 
