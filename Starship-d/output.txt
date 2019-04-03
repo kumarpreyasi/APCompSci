@@ -1,0 +1,37 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63931:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/preyasikumar/IdeaProjects/Starshipd/out/production/untitled104 Main
+
+Complete Fleet:
+Reliant:	Hull: 1096	Shields: 2502	Beam Weapons: 2981	Torpedoes: 18
+Enterprise:	Hull: 1649	Shields: 2350	Beam Weapons: 3047	Torpedoes: 25
+Yorktown:	Hull: 2070	Shields: 2375	Beam Weapons: 3800	Torpedoes: 28
+Saratoga:	Hull: 3543	Shields: 1911	Beam Weapons: 4076	Torpedoes: 43
+Voyager:	Hull: 1201	Shields: 3455	Beam Weapons: 2545	Torpedoes: 11
+Discovery:	Hull: 1999	Shields: 2044	Beam Weapons: 3284	Torpedoes: 21
+Constitution:	Hull: 2034	Shields: 2257	Beam Weapons: 3761	Torpedoes: 20
+Constellation:	Hull: 4944	Shields: 1643	Beam Weapons: 4837	Torpedoes: 44
+Grissom:	Hull: 1069	Shields: 3183	Beam Weapons: 2707	Torpedoes: 15
+Defiant:	Hull: 1563	Shields: 2352	Beam Weapons: 3323	Torpedoes: 24
+Intrepid:	Hull: 2448	Shields: 2189	Beam Weapons: 3108	Torpedoes: 23
+Britaan:	Hull: 4221	Shields: 1717	Beam Weapons: 4978	Torpedoes: 49
+Stargazer:	Hull: 1212	Shields: 3006	Beam Weapons: 2929	Torpedoes: 12
+Yamato:	Hull: 1531	Shields: 2081	Beam Weapons: 3000	Torpedoes: 29
+Galaxy:	Hull: 2411	Shields: 2259	Beam Weapons: 3570	Torpedoes: 26
+Ambassador:	Hull: 3666	Shields: 1880	Beam Weapons: 4169	Torpedoes: 41
+Nimitz:	Hull: 1145	Shields: 2758	Beam Weapons: 2622	Torpedoes: 14
+Equinox:	Hull: 1665	Shields: 2074	Beam Weapons: 3266	Torpedoes: 25
+Relativity:	Hull: 2029	Shields: 2467	Beam Weapons: 3486	Torpedoes: 30
+Challenger:	Hull: 4814	Shields: 1506	Beam Weapons: 4905	Torpedoes: 40
+
+Defense Battalion:
+Constellation:	Hull: 4944	Shields: 1643	Beam Weapons: 4837	Torpedoes: 44
+Challenger:	Hull: 4814	Shields: 1506	Beam Weapons: 4905	Torpedoes: 40
+Britaan:	Hull: 4221	Shields: 1717	Beam Weapons: 4978	Torpedoes: 49
+Ambassador:	Hull: 3666	Shields: 1880	Beam Weapons: 4169	Torpedoes: 41
+
+Offense Battalion:
+Saratoga:	Hull: 3543	Shields: 1911	Beam Weapons: 4076	Torpedoes: 43
+Galaxy:	Hull: 2411	Shields: 2259	Beam Weapons: 3570	Torpedoes: 26
+Voyager:	Hull: 1201	Shields: 3455	Beam Weapons: 2545	Torpedoes: 11
+Intrepid:	Hull: 2448	Shields: 2189	Beam Weapons: 3108	Torpedoes: 23
+
+Process finished with exit code 0
